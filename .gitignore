@@ -1,0 +1,11 @@
+
+# OS files
+._*
+.cache
+Thumbs.db
+ehthumbs.db
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+*.swp
