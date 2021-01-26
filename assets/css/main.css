@@ -1457,6 +1457,9 @@ input, select, textarea {
 				#header .logo .icon:before {
 					font-size: 1.75rem;
 				}
+				#header .logo img {
+					width: 4.75rem;
+				}
 
 			#header .content .inner {
 				padding: 2.5rem 1rem;
