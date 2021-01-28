@@ -153,13 +153,14 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.5);
+		border-bottom: dotted 1px #3ecccc;
 		text-decoration: none;
 		color: inherit;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
+			color: #3ecccc;
 		}
 
 	strong, b {
@@ -726,7 +727,7 @@ input, select, textarea {
 
 	ol {
 		list-style: decimal;
-		margin: 0 0 2rem 0;
+		/*margin: 0 0 2rem 0;*/
 		padding-left: 1.25em;
 	}
 
